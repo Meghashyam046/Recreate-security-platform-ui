@@ -36,21 +36,21 @@ public/             → Static assets
 styles/             → Global styles
 ✨ Features
 
-📊 Dashboard scan table
+* Dashboard scan table
 
-🔄 Multi-step scan progress tracker
+* Multi-step scan progress tracker
 
-🔵 Circular progress indicator
+* Circular progress indicator
 
-💻 Live console with auto-scroll
+* Live console with auto-scroll
 
-🚨 Vulnerability finding log
+* Vulnerability finding log
 
-📈 Real-time metrics status bar
+* Real-time metrics status bar
 
-🌗 Dark/Light theme support
+* Dark/Light theme support
 
-📱 Responsive layout
+* Responsive layout
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
@@ -93,6 +93,7 @@ Hydration-safe theme rendering to prevent SSR mismatches.
 
 Feature-based separation for maintainability.
 
+
 ⚠️ Known Limitations
 
 Uses mock data (no real backend integration).
@@ -105,21 +106,3 @@ No persistent database storage.
 
 Real-time updates are simulated via client-side logic only.
 
-🔮 Future Improvements
-
-Backend integration with real scan engine
-
-WebSocket-based live updates
-
-Authentication & role-based access
-
-Persistent database
-
-Scan configuration UI
-
-Downloadable scan reports
-
-
-📄 License
-
-This project is for educational and portfolio purposes.
